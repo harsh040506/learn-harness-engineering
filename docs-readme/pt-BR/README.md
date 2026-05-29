@@ -41,14 +41,26 @@ Aprenda Engenharia de Harness é um curso dedicado à engenharia de agentes de c
 
 ## Sumário
 
-- [✨ Prévia Visual](#-prévia-visual)
-- [O Que a Engenharia de Harness Realmente Significa](#o-que-a-engenharia-de-harness-realmente-significa)
-- [Início Rápido: Melhore Seu Agente Hoje](#início-rápido-melhore-seu-agente-hoje)
-- [Projeto Final: Um Aplicativo Real](#projeto-final-um-aplicativo-real)
-- [Caminho de Aprendizagem](#caminho-de-aprendizagem)
-- [Ementa](#ementa)
-- [Habilidades](#habilidades)
-- [Outros Cursos](#outros-cursos)
+- [Aprenda Engenharia de Harness](#aprenda-engenharia-de-harness)
+  - [Sumário](#sumário)
+  - [✨ Prévia Visual](#-prévia-visual)
+    - [🏠 Página Inicial do Curso](#-página-inicial-do-curso)
+    - [📖 Aulas Imersivas](#-aulas-imersivas)
+    - [🗂️ Biblioteca de Recursos Pronta para Uso](#️-biblioteca-de-recursos-pronta-para-uso)
+  - [Livros do Curso em PDF](#livros-do-curso-em-pdf)
+  - [O Modelo é Inteligente, o Harness o Torna Confiável](#o-modelo-é-inteligente-o-harness-o-torna-confiável)
+  - [O Que a Engenharia de Harness Realmente Significa](#o-que-a-engenharia-de-harness-realmente-significa)
+  - [Por Que Este Curso Existe](#por-que-este-curso-existe)
+  - [Currículo e Documentação do Curso](#currículo-e-documentação-do-curso)
+  - [Início Rápido: Melhore Seu Agente Hoje](#início-rápido-melhore-seu-agente-hoje)
+  - [Projeto Final: Um Aplicativo Real](#projeto-final-um-aplicativo-real)
+  - [Referências Principais](#referências-principais)
+  - [Estrutura do Repositório](#estrutura-do-repositório)
+  - [Como o Curso é Organizado](#como-o-curso-é-organizado)
+  - [Habilidades](#habilidades)
+  - [Outros Cursos](#outros-cursos)
+  - [Histórico de Estrelas](#histórico-de-estrelas)
+  - [Agradecimentos](#agradecimentos)
 
 ---
 
@@ -57,17 +69,17 @@ Aprenda Engenharia de Harness é um curso dedicado à engenharia de agentes de c
 ### 🏠 Página Inicial do Curso
 > Um esboço abrangente do curso e introdução às filosofias centrais, fornecendo um caminho claro para começar.
 
-![Prévia da página inicial do curso](./docs/public/screenshots/readme/en-home.png)
+![Prévia da página inicial do curso](../../docs/public/screenshots/readme/en-home.png)
 
 ### 📖 Aulas Imersivas
 > Aprofundamentos em problemas do mundo real e projetos práticos (como o Projeto 01) para uma experiência de aprendizado imersiva.
 
-![Prévia da aula do curso](./docs/public/screenshots/readme/en-lecture-01.png)
+![Prévia da aula do curso](../../docs/public/screenshots/readme/en-lecture-01.png)
 
 ### 🗂️ Biblioteca de Recursos Pronta para Uso
 > Modelos e configurações de referência projetados para resolver armadilhas comuns no desenvolvimento de agentes de IA multi-turn, como perda de contexto e conclusão prematura de tarefas.
 
-![Prévia da biblioteca de recursos](./docs/public/screenshots/readme/en-resources.png)
+![Prévia da biblioteca de recursos](../../docs/public/screenshots/readme/en-resources.png)
 
 ## Livros do Curso em PDF
 
