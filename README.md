@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lectures-12-blue?style=flat-square" alt="12 Lectures">
   <img src="https://img.shields.io/badge/Projects-6-green?style=flat-square" alt="6 Projects">
-  <img src="https://img.shields.io/badge/Languages-13-yellow?style=flat-square" alt="13 Languages">
+  <img src="https://img.shields.io/badge/Languages-13-yellow?style=flat-square" alt="14 Languages">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" alt="MIT License">
 </p>
 
